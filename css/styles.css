@@ -23,13 +23,26 @@ ul {
 }
 
 /* hero */
-.hero {
+.hero-title {
     color: #FFFFFF;
 }
+
+/* section */
 .section-title {
     color: #212121;
 }
 
 .section-text {
     color: #757575;
+}
+/* button */
+
+.button-primary {
+    color: #212121;
+    background-color: #F5F4FA;
+}
+
+.auth-nav .button-primary:hover 
+.auth-nav .button-primary:focus{
+color: #2196F3;
 }
