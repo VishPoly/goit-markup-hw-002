@@ -22,6 +22,10 @@ ul {
     color: #2196F3;
 }
 
+.site-nav .link.current {
+    color: #2196F3;
+} 
+
 /* hero */
 .hero-title {
     color: #FFFFFF;
@@ -42,7 +46,7 @@ ul {
     background-color: #F5F4FA;
 }
 
-.auth-nav .button-primary:hover 
-.auth-nav .button-primary:focus{
+.button-primary:hover 
+.button-primary:focus{
 color: #2196F3;
 }
